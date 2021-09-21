@@ -1,5 +1,7 @@
 # Warhammer 40K Table Top Simulator
 
+![Use Case Image](Mercado_Warhammer40KTableTopSimulator.png)
+
 ## Project Description
 This table top simulator will allow Warhammer 40K fans to play their favorite missions and campaigns digitally. This simulator will have a multiplayer feature of up to 8 players with a minimum of 3 (2 for the party and 1 for the "Campaign Manager") players. The simulator will ensure that any lore, any stats, and any rules from the physical game will be transferred over successfully so the need of physical models will not be needed or rule books. This simulator will also allow players to customize and pick factions or “Armies” from the Warhammer 40K universe to ensure full player customizability.
 

@@ -14,6 +14,7 @@ My contribution to this project will be the implementing of models as well as en
 - Familarity with using and implementing GUIs.
 - Familiarity with game design.
 - IDE debugger will ensure there are no errors, so use this frequently.
+- URL: <https://github.com/JC-127/Warhammer-40K-Table-Top-Simulator>
 
 ***Building***
 - Java based IDE is preferred since the implementation of a GUI in Java is easier.

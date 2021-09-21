@@ -23,6 +23,6 @@ My contribution to this project will be the implementing of models as well as en
 - Still a Work In Progress so expect it not to be created or implemented yet.
 
 ## Required Resources
--Any IDE that can implement the use of a GUI.
--Knowledge of game programming.
--Knowledge of the use of game "engines" for development purposes.
+- Any IDE that can implement the use of a GUI.
+- Knowledge of game programming.
+- Knowledge of the use of game "engines" for development purposes.

@@ -16,8 +16,8 @@ My contribution to this project will be the implementing of models as well as en
 - IDE debugger will ensure there are no errors, so use this frequently.
 
 ***Building***
--Java based IDE is preferred since the implementation of a GUI in Java is easier.
--Java debugger frequently used will ensure minimal errors of logic flaw. 
+- Java based IDE is preferred since the implementation of a GUI in Java is easier.
+- Java debugger frequently used will ensure minimal errors of logic flaw. 
 
 **Running**
 - Still a Work In Progress so expect it not to be created or implemented yet.
